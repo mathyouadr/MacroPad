@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+configurator/build/
+configurator/dist/
+
+# Profil de configuration sauvegardé par le configurateur
+macropad_config.json
+
+# Installeurs d'outils (volumineux, téléchargeables)
+tools/
+
+# Compte rendu scolaire (contient des informations personnelles)
+docs/*.docx
