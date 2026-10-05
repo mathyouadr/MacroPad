@@ -144,6 +144,8 @@ Chaque switch relie son GPIO au 3V3. Le firmware active la résistance de pull-d
 
 ![Routage du PCB](docs/images/pcb.png)
 
+![Assemblage du PCB : soudure des switches mécaniques et du Raspberry Pi Pico](docs/images/assemblage.jpg)
+
 ## Licence
 
 MIT — voir [LICENSE](LICENSE).
